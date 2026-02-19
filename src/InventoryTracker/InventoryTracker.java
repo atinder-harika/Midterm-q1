@@ -9,5 +9,5 @@ package InventoryTracker;
  * @author atind
  */
 public class InventoryTracker {
-    
+    checkStockLevel();
 }
