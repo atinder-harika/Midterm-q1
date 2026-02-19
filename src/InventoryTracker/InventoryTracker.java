@@ -10,4 +10,5 @@ package InventoryTracker;
  */
 public class InventoryTracker {
     checkStockLevel();
+    alertLowStock();
 }
